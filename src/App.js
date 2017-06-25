@@ -15,7 +15,9 @@ class App extends Component {
           To use the component, click on Agthy component, in the right-bottom corner.
         </p>
 
-        <Agthy />
+        <Agthy
+          campaign="-KnMYnSjs1MrMPxVTt9t"
+          customer="0KMjsgvFFYXMGCksHuCKkuSRr9b2" />
       </div>
     );
   }
